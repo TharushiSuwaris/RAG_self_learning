@@ -1,0 +1,15 @@
+[project]
+name = "projects"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.14.2",
+    "ipykernel>=7.1.0",
+    "langchain>=1.0.5",
+    "langchain-community>=0.4.1",
+    "langchain-core>=1.0.4",
+    "pymupdf>=1.26.6",
+    "pypdf>=6.2.0",
+]
